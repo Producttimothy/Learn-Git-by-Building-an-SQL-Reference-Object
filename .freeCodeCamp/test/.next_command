@@ -18,3 +18,6 @@ history -a
 git init
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
