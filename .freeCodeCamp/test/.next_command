@@ -3,3 +3,6 @@ history -a
 echo hello git
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+mkdir sql_reference
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
