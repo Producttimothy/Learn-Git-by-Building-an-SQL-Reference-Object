@@ -66,3 +66,6 @@ history -a
 git commit -m "Initial commit"
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
