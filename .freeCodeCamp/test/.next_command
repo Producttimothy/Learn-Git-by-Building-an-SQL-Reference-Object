@@ -15,3 +15,6 @@ history -a
 cd sql_reference
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
