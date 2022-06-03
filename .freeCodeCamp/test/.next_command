@@ -6,3 +6,12 @@ history -a
 mkdir sql_reference
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+man \c
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch readme.md
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd sql_reference
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
