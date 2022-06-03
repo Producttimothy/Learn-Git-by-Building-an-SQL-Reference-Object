@@ -27,3 +27,6 @@ history -a
 git checkout -b main
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
