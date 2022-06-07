@@ -207,3 +207,9 @@ history -a
 git merge feat/add-create-table-reference
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git log --online
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git log --oneline
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
