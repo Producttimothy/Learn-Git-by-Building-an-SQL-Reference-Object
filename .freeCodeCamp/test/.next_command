@@ -498,3 +498,6 @@ history -a
 git stash show
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git stash show -p
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
