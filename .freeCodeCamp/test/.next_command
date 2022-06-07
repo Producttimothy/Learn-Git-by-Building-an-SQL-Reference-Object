@@ -416,3 +416,6 @@ history -a
 git checkout feat/add-column-references
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git rebase main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
