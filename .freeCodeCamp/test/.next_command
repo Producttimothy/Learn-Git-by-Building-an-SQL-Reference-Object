@@ -267,3 +267,6 @@ history -a
 git checkout -b feat/add-column-references
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git diff
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
