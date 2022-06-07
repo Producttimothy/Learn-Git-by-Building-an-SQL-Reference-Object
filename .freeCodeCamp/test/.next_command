@@ -407,3 +407,12 @@ history -a
 git merge feat/add-insert-row-reference
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git log
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git log --oneline
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git checkout feat/add-column-references
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
