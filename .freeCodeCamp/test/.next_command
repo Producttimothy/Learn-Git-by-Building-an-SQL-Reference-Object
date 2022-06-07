@@ -285,3 +285,6 @@ history -a
 git commit -m "feat: add column reference"
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git log --oneline
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
