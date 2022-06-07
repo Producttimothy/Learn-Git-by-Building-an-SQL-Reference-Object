@@ -492,3 +492,6 @@ history -a
 git stash
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git stash list
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
