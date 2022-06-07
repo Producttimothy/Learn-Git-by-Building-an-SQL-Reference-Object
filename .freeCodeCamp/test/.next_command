@@ -107,3 +107,6 @@ history -a
 git commit -m "feat: add create database reference"
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git log
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
