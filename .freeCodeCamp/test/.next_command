@@ -219,3 +219,6 @@ history -a
 git branch
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git checkout -b feat/add-drop-table-reference
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
