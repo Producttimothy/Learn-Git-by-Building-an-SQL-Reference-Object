@@ -95,3 +95,9 @@ history -a
 git diff
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git add sql_references.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add sql_reference.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
