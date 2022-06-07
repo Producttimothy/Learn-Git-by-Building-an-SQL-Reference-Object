@@ -383,3 +383,15 @@ history -a
 git checkout -b feat/add-insert-row-reference
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git diff
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add sql-reference.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add sql_reference.json
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
