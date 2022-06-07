@@ -380,3 +380,6 @@ history -a
 git checkout main
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git checkout -b feat/add-insert-row-reference
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
