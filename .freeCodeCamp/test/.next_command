@@ -504,3 +504,6 @@ history -a
 git stash apply
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git stash list
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
