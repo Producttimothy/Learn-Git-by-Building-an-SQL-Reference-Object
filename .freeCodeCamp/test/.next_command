@@ -447,3 +447,6 @@ history -a
 git status
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git rebase --continue
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
