@@ -404,3 +404,6 @@ history -a
 git branch
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git merge feat/add-insert-row-reference
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
