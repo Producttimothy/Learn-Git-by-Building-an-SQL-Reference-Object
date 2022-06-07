@@ -450,3 +450,6 @@ history -a
 git rebase --continue
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git log --oneline
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
