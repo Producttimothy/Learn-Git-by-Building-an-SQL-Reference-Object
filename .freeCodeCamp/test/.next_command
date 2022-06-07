@@ -309,3 +309,6 @@ history -a
 git add sql_reference.json
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git commit -m "fix: create table syntax"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
