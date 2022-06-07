@@ -332,3 +332,6 @@ history -a
 git branch -d fix/create-table-syntax
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git checkout feat/add-column-references
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
